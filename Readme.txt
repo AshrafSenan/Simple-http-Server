@@ -1,0 +1,4 @@
+- This simple HTTP server supports three methods: HEAD, GET, and POST
+- it support images
+- it is logging the requests and sresponses.
+- it is a multithreading server supports 5 threads using threading pool executers.

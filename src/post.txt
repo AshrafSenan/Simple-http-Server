@@ -1,0 +1,59 @@
+Time :2020-11-02T20:06:26.679762	 Post Data: null
+
+Time :2020-11-02T20:07:27.023783	 Post Data: null
+
+Time :2020-11-02T20:12:36.852478	 Post Data: null
+
+Time :2020-11-02T20:12:56.910754	 Post Data: null
+
+Time :2020-11-02T20:13:36.550879	 Post Data: null
+
+Time :2020-11-02T20:14:23.244291	 Post Data: null
+
+Time :2020-11-02T20:18:20.803555	 Post Data: POST / HTTP/1.1
+Host: 127.0.0.1:8888
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-GB,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 13
+Origin: http://127.0.0.1:8888
+Connection: keep-alive
+Referer: http://127.0.0.1:8888/post.html
+Upgrade-Insecure-Requests: 1
+
+
+Time :2020-11-02T20:30:42.332610	 Post Data: say=Hi&to=Mom
+
+
+Time :2020-11-02T23:18:27.637036	 Post Data: say=Hi&to=Mom
+null
+
+
+Time :2020-11-02T23:19:40.458037	 Post Data: say=Hi&to=Mom
+null
+
+
+Time :2020-11-02T23:19:59.698090	 Post Data: say=Ashraf+&to=Dad
+null
+
+
+Time :2020-11-02T23:21:08.364312	 Post Data: say=Ashraf&to=Hello+dad
+
+
+Time :2020-11-02T23:21:59.254412	 Post Data: say=Final+&to=Try
+
+
+Time :2020-11-02T23:22:22.205728	 Post Data: say=Post&to=is+the+most
+
+
+Time :2020-11-05T09:18:19.152914	 Post Data: say=Hi&to=Mom
+
+
+Time :2020-11-05T09:20:08.389813	 Post Data: say=I+don%27t+like+you+that+much&to=Mom
+
+
+Time :2020-11-05T09:20:19.758219	 Post Data: say=I+don%27t+like+you+that+much&to=Ashraf
+
+

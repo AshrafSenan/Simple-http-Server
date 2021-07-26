@@ -1,0 +1,134 @@
+Time :2020-11-02T18:46:01.540367	 Request Type:GET	 Request Path:/ 	 Response Code:200 OK
+
+Time :2020-11-02T18:46:02.099551	 Request Type:GET	 Request Path:/favicon.ico 	 Response Code:404 Not Found
+
+Time :2020-11-02T18:46:04.275195	 Request Type:GET	 Request Path:/page2.html 	 Response Code:200 OK
+
+Time :2020-11-02T18:46:04.371437	 Request Type:GET	 Request Path:/tp_it.jpg 	 Response Code:200 OK
+
+Time :2020-11-02T18:46:04.415586	 Request Type:GET	 Request Path:/beer.jpg 	 Response Code:200 OK
+
+Time :2020-11-02T20:02:09.814640	 Request Type:GET	 Request Path:/tp_it.jpg 	 Response Code:200 OK
+
+Time :2020-11-02T20:02:09.850856	 Request Type:GET	 Request Path:/beer.jpg 	 Response Code:200 OK
+
+Time :2020-11-02T20:02:09.742069	 Request Type:GET	 Request Path:/page2.html 	 Response Code:200 OK
+
+Time :2020-11-02T20:04:29.900624	 Request Type:GET	 Request Path:/beer.jpg 	 Response Code:200 OK
+
+Time :2020-11-02T20:04:29.898159	 Request Type:GET	 Request Path:/tp_it.jpg 	 Response Code:200 OK
+
+Time :2020-11-02T20:04:29.905894	 Request Type:GET	 Request Path:/page2.html 	 Response Code:200 OK
+
+Time :2020-11-02T20:04:36.891742	 Request Type:GET	 Request Path:/post.html 	 Response Code:200 OK
+
+Time :2020-11-02T20:04:37.017600	 Request Type:GET	 Request Path:/favicon.ico 	 Response Code:404 Not Found
+
+Time :2020-11-02T20:04:39.485329	 Request Type:POST	 Request Path:/ 	 Response Code:501 Not Implemented
+
+Time :2020-11-02T20:04:39.541818	 Request Type:GET	 Request Path:/favicon.ico 	 Response Code:404 Not Found
+
+Time :2020-11-02T20:07:17.231012	 Request Type:GET	 Request Path:/ 	 Response Code:200 OK
+
+Time :2020-11-02T20:07:25.533852	 Request Type:GET	 Request Path:/post.html 	 Response Code:200 OK
+
+Time :2020-11-02T20:12:29.899395	 Request Type:GET	 Request Path:/ 	 Response Code:200 OK
+
+Time :2020-11-02T20:12:35.676832	 Request Type:GET	 Request Path:/post.html 	 Response Code:200 OK
+
+Time :2020-11-02T20:12:36.922245	 Request Type:POST	 Request Path:/ 	 Response Code:200 OK
+
+Time :2020-11-02T20:12:54.384664	 Request Type:GET	 Request Path:/post.html 	 Response Code:200 OK
+
+Time :2020-11-02T20:12:56.913404	 Request Type:POST	 Request Path:/ 	 Response Code:200 OK
+
+Time :2020-11-02T20:13:29.140562	 Request Type:GET	 Request Path:/post.html 	 Response Code:200 OK
+
+Time :2020-11-02T20:13:36.551114	 Request Type:POST	 Request Path:/ 	 Response Code:200 OK
+
+Time :2020-11-02T20:14:23.244509	 Request Type:POST	 Request Path:/ 	 Response Code:200 OK
+
+Time :2020-11-02T20:18:16.751881	 Request Type:GET	 Request Path:/post.html 	 Response Code:200 OK
+
+Time :2020-11-02T20:18:20.883460	 Request Type:POST	 Request Path:/ 	 Response Code:200 OK
+
+Time :2020-11-02T23:11:05.153188	 Request Type:GET	 Request Path:/page2.html 	 Response Code:200 OK
+
+Time :2020-11-02T23:11:05.174105	 Request Type:GET	 Request Path:/tp_it.jpg 	 Response Code:200 OK
+
+Time :2020-11-02T23:11:05.215190	 Request Type:GET	 Request Path:/beer.jpg 	 Response Code:200 OK
+
+Time :2020-11-02T23:12:49.700389	 Request Type:GET	 Request Path:/page2.html 	 Response Code:200 OK
+
+Time :2020-11-02T23:12:49.723663	 Request Type:GET	 Request Path:/beer.jpg 	 Response Code:200 OK
+
+Time :2020-11-02T23:12:49.731431	 Request Type:GET	 Request Path:/tp_it.jpg 	 Response Code:200 OK
+
+Time :2020-11-02T23:12:54.761468	 Request Type:GET	 Request Path:/post.html 	 Response Code:200 OK
+
+Time :2020-11-02T23:16:01.828701	 Request Type:GET	 Request Path:/ 	 Response Code:200 OK
+
+Time :2020-11-02T23:16:09.152018	 Request Type:GET	 Request Path:/post.html 	 Response Code:200 OK
+
+Time :2020-11-02T23:17:27.511377	 Request Type:GET	 Request Path:/ 	 Response Code:200 OK
+
+Time :2020-11-02T23:17:33.211939	 Request Type:GET	 Request Path:/post.html 	 Response Code:200 OK
+
+Time :2020-11-02T23:17:33.318944	 Request Type:GET	 Request Path:/favicon.ico 	 Response Code:404 Not Found
+
+Time :2020-11-02T23:18:32.068909	 Request Type:GET	 Request Path:/ 	 Response Code:200 OK
+
+Time :2020-11-02T23:18:33.963743	 Request Type:GET	 Request Path:/page2.html 	 Response Code:200 OK
+
+Time :2020-11-02T23:18:34.046272	 Request Type:GET	 Request Path:/tp_it.jpg 	 Response Code:200 OK
+
+Time :2020-11-02T23:18:34.053090	 Request Type:GET	 Request Path:/beer.jpg 	 Response Code:200 OK
+
+Time :2020-11-02T23:18:39.473014	 Request Type:GET	 Request Path:/index.html 	 Response Code:200 OK
+
+Time :2020-11-02T23:18:45.729063	 Request Type:GET	 Request Path:/page3.html 	 Response Code:200 OK
+
+Time :2020-11-02T23:18:47.626832	 Request Type:GET	 Request Path:/page2.html 	 Response Code:200 OK
+
+Time :2020-11-02T23:18:47.700693	 Request Type:GET	 Request Path:/tp_it.jpg 	 Response Code:200 OK
+
+Time :2020-11-02T23:18:47.765294	 Request Type:GET	 Request Path:/beer.jpg 	 Response Code:200 OK
+
+Time :2020-11-02T23:18:53.724873	 Request Type:GET	 Request Path:/page3.html 	 Response Code:200 OK
+
+Time :2020-11-02T23:18:57.541564	 Request Type:GET	 Request Path:/post.html 	 Response Code:200 OK
+
+Time :2020-11-02T23:19:59.691758	 Request Type:GET	 Request Path:/post.html 	 Response Code:200 OK
+
+Time :2020-11-02T23:21:08.527718	 Request Type:GET	 Request Path:/ 	 Response Code:200 OK
+
+Time :2020-11-02T23:21:20.578342	 Request Type:GET	 Request Path:/post.html 	 Response Code:200 OK
+
+Time :2020-11-02T23:22:01.083861	 Request Type:GET	 Request Path:/post.html 	 Response Code:200 OK
+
+Time :2020-11-05T09:17:58.634918	 Request Type:GET	 Request Path:/page2.html 	 Response Code:200 OK
+
+Time :2020-11-05T09:18:00.429043	 Request Type:GET	 Request Path:/tp_it.jpg 	 Response Code:200 OK
+
+Time :2020-11-05T09:18:00.438092	 Request Type:GET	 Request Path:/beer.jpg 	 Response Code:200 OK
+
+Time :2020-11-05T09:18:05.026574	 Request Type:GET	 Request Path:/post.html 	 Response Code:200 OK
+
+Time :2020-11-05T09:18:21.752442	 Request Type:GET	 Request Path:/po/st.html 	 Response Code:404 Not Found
+
+Time :2020-11-05T09:18:26.049087	 Request Type:GET	 Request Path:/po/st.html 	 Response Code:404 Not Found
+
+Time :2020-11-05T09:18:30.151675	 Request Type:GET	 Request Path:/post.html 	 Response Code:200 OK
+
+Time :2020-11-05T09:20:08.868782	 Request Type:GET	 Request Path:/post.html 	 Response Code:200 OK
+
+Time :2020-11-05T15:34:44.086	 Request Type:GET	 Request Path:/ 	 Response Code:200 OK
+
+Time :2020-11-05T15:34:44.156	 Request Type:GET	 Request Path:/favicon.ico 	 Response Code:404 Not Found
+
+Time :2020-11-05T15:34:46.029	 Request Type:GET	 Request Path:/page2.html 	 Response Code:200 OK
+
+Time :2020-11-05T15:34:46.044	 Request Type:GET	 Request Path:/tp_it.jpg 	 Response Code:200 OK
+
+Time :2020-11-05T15:34:46.046	 Request Type:GET	 Request Path:/beer.jpg 	 Response Code:200 OK
+
